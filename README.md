@@ -2,4 +2,5 @@
 This Repo is for GDSC Study Session Projects purpose only
 
 Language Used: Python
+
 Framework: Django 
